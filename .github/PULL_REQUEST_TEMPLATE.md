@@ -1,6 +1,6 @@
 ## New Submission
 
-- [ ] I've read the [contribution guidelines](https://github.com/kimeetok/Gen-AI-Catalog/new/main/contributing.md).
+- [ ] I've read the [contribution guidelines](https://github.com/IMDA-BTG/LLM-Evals-Catalogue/blob/main/docs/CONTRIBUTING.md).
 - [ ] I am an author / contributor of the Evaluation Framework / Benchmark / Paper that I am submitting.
 
 
