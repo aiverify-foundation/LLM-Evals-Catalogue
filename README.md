@@ -6,7 +6,7 @@ The realm of LLM evaluation is advancing at an unparalleled pace. Collaboration 
 
 To that end, <b>we invite submissions of LLM evaluation frameworks, benchmarks, and papers for inclusion in this catalogue</b>. 
 
-Before you [raise a PR for a new submission](https://github.com/kimeetok/Gen-AI-Catalog/pulls), please read our [contribution guidelines](https://github.com/kimeetok/Gen-AI-Catalog/edit/main/contributing.md).
+Before you [raise a PR for a new submission](https://github.com/IMDA-BTG/LLM-Evals-Catalogue/pulls), please read our [contribution guidelines](https://github.com/IMDA-BTG/LLM-Evals-Catalogue/edit/main/contributing.md).
 Submissions will be reviewed and integrated into the catalogue on a rolling basis.
 
 For any inquiries, feel free to reach out to us at info@aiverify.sg.
